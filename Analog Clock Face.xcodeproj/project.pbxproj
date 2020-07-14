@@ -15,6 +15,9 @@
 		BDBB442D24BE5499005A00E5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDBB442B24BE5499005A00E5 /* LaunchScreen.storyboard */; };
 		BDBB443524BE54FD005A00E5 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = BDBB443424BE54FD005A00E5 /* README.md */; };
 		BDBB443824BE59AD005A00E5 /* Parameters.json in Resources */ = {isa = PBXBuildFile; fileRef = BDBB443724BE59AD005A00E5 /* Parameters.json */; };
+		BDBB443A24BE6B09005A00E5 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBB443924BE6B09005A00E5 /* Data.swift */; };
+		BDBB443C24BE6B3F005A00E5 /* Part.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBB443B24BE6B3F005A00E5 /* Part.swift */; };
+		BDBB443F24BE6C0B005A00E5 /* Color+Name.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBB443E24BE6C0B005A00E5 /* Color+Name.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +31,9 @@
 		BDBB442E24BE5499005A00E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BDBB443424BE54FD005A00E5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		BDBB443724BE59AD005A00E5 /* Parameters.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Parameters.json; sourceTree = "<group>"; };
+		BDBB443924BE6B09005A00E5 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		BDBB443B24BE6B3F005A00E5 /* Part.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Part.swift; sourceTree = "<group>"; };
+		BDBB443E24BE6C0B005A00E5 /* Color+Name.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Name.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +67,7 @@
 		BDBB441F24BE5498005A00E5 /* Analog Clock Face */ = {
 			isa = PBXGroup;
 			children = (
+				BDBB443D24BE6BEF005A00E5 /* Extensions */,
 				BDBB442024BE5498005A00E5 /* AppDelegate.swift */,
 				BDBB442224BE5498005A00E5 /* SceneDelegate.swift */,
 				BDBB442424BE5498005A00E5 /* ContentView.swift */,
@@ -69,6 +76,8 @@
 				BDBB442B24BE5499005A00E5 /* LaunchScreen.storyboard */,
 				BDBB442E24BE5499005A00E5 /* Info.plist */,
 				BDBB442824BE5499005A00E5 /* Preview Content */,
+				BDBB443924BE6B09005A00E5 /* Data.swift */,
+				BDBB443B24BE6B3F005A00E5 /* Part.swift */,
 			);
 			path = "Analog Clock Face";
 			sourceTree = "<group>";
@@ -87,6 +96,14 @@
 				BDBB443724BE59AD005A00E5 /* Parameters.json */,
 			);
 			path = Resources;
+			sourceTree = "<group>";
+		};
+		BDBB443D24BE6BEF005A00E5 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				BDBB443E24BE6C0B005A00E5 /* Color+Name.swift */,
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -165,6 +182,9 @@
 				BDBB442124BE5498005A00E5 /* AppDelegate.swift in Sources */,
 				BDBB442324BE5498005A00E5 /* SceneDelegate.swift in Sources */,
 				BDBB442524BE5498005A00E5 /* ContentView.swift in Sources */,
+				BDBB443C24BE6B3F005A00E5 /* Part.swift in Sources */,
+				BDBB443F24BE6C0B005A00E5 /* Color+Name.swift in Sources */,
+				BDBB443A24BE6B09005A00E5 /* Data.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
