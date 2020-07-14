@@ -19,6 +19,8 @@
 		BDBB443C24BE6B3F005A00E5 /* Part.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBB443B24BE6B3F005A00E5 /* Part.swift */; };
 		BDBB443F24BE6C0B005A00E5 /* Color+Name.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBB443E24BE6C0B005A00E5 /* Color+Name.swift */; };
 		BDBB444124BE71E1005A00E5 /* Double+°.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBB444024BE71E1005A00E5 /* Double+°.swift */; };
+		BDBB444324BE755D005A00E5 /* Dial.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBB444224BE755D005A00E5 /* Dial.swift */; };
+		BDBB444524BE76B3005A00E5 /* MarkerRing.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBB444424BE76B3005A00E5 /* MarkerRing.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +38,8 @@
 		BDBB443B24BE6B3F005A00E5 /* Part.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Part.swift; sourceTree = "<group>"; };
 		BDBB443E24BE6C0B005A00E5 /* Color+Name.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Name.swift"; sourceTree = "<group>"; };
 		BDBB444024BE71E1005A00E5 /* Double+°.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Double+°.swift"; sourceTree = "<group>"; };
+		BDBB444224BE755D005A00E5 /* Dial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dial.swift; sourceTree = "<group>"; };
+		BDBB444424BE76B3005A00E5 /* MarkerRing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarkerRing.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +84,8 @@
 				BDBB442824BE5499005A00E5 /* Preview Content */,
 				BDBB443924BE6B09005A00E5 /* Data.swift */,
 				BDBB443B24BE6B3F005A00E5 /* Part.swift */,
+				BDBB444224BE755D005A00E5 /* Dial.swift */,
+				BDBB444424BE76B3005A00E5 /* MarkerRing.swift */,
 			);
 			path = "Analog Clock Face";
 			sourceTree = "<group>";
@@ -186,9 +192,11 @@
 				BDBB442324BE5498005A00E5 /* SceneDelegate.swift in Sources */,
 				BDBB442524BE5498005A00E5 /* ContentView.swift in Sources */,
 				BDBB443C24BE6B3F005A00E5 /* Part.swift in Sources */,
+				BDBB444524BE76B3005A00E5 /* MarkerRing.swift in Sources */,
 				BDBB443F24BE6C0B005A00E5 /* Color+Name.swift in Sources */,
 				BDBB444124BE71E1005A00E5 /* Double+°.swift in Sources */,
 				BDBB443A24BE6B09005A00E5 /* Data.swift in Sources */,
+				BDBB444324BE755D005A00E5 /* Dial.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
