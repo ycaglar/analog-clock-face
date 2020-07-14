@@ -22,6 +22,8 @@
 		BDBB444324BE755D005A00E5 /* Dial.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBB444224BE755D005A00E5 /* Dial.swift */; };
 		BDBB444524BE76B3005A00E5 /* MarkerRing.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBB444424BE76B3005A00E5 /* MarkerRing.swift */; };
 		BDBB444724BE7914005A00E5 /* Hand.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBB444624BE7914005A00E5 /* Hand.swift */; };
+		BDBB444924BE7999005A00E5 /* Movement.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBB444824BE7999005A00E5 /* Movement.swift */; };
+		BDBB444B24BE7A0E005A00E5 /* Shaft.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBB444A24BE7A0E005A00E5 /* Shaft.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +44,8 @@
 		BDBB444224BE755D005A00E5 /* Dial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dial.swift; sourceTree = "<group>"; };
 		BDBB444424BE76B3005A00E5 /* MarkerRing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarkerRing.swift; sourceTree = "<group>"; };
 		BDBB444624BE7914005A00E5 /* Hand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hand.swift; sourceTree = "<group>"; };
+		BDBB444824BE7999005A00E5 /* Movement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movement.swift; sourceTree = "<group>"; };
+		BDBB444A24BE7A0E005A00E5 /* Shaft.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shaft.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +93,8 @@
 				BDBB444424BE76B3005A00E5 /* MarkerRing.swift */,
 				BDBB444224BE755D005A00E5 /* Dial.swift */,
 				BDBB444624BE7914005A00E5 /* Hand.swift */,
+				BDBB444824BE7999005A00E5 /* Movement.swift */,
+				BDBB444A24BE7A0E005A00E5 /* Shaft.swift */,
 			);
 			path = "Analog Clock Face";
 			sourceTree = "<group>";
@@ -191,6 +197,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BDBB444924BE7999005A00E5 /* Movement.swift in Sources */,
 				BDBB442124BE5498005A00E5 /* AppDelegate.swift in Sources */,
 				BDBB442324BE5498005A00E5 /* SceneDelegate.swift in Sources */,
 				BDBB442524BE5498005A00E5 /* ContentView.swift in Sources */,
@@ -198,6 +205,7 @@
 				BDBB444524BE76B3005A00E5 /* MarkerRing.swift in Sources */,
 				BDBB443F24BE6C0B005A00E5 /* Color+Name.swift in Sources */,
 				BDBB444724BE7914005A00E5 /* Hand.swift in Sources */,
+				BDBB444B24BE7A0E005A00E5 /* Shaft.swift in Sources */,
 				BDBB444124BE71E1005A00E5 /* Double+°.swift in Sources */,
 				BDBB443A24BE6B09005A00E5 /* Data.swift in Sources */,
 				BDBB444324BE755D005A00E5 /* Dial.swift in Sources */,
