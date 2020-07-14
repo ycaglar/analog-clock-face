@@ -14,6 +14,7 @@
 		BDBB442A24BE5499005A00E5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDBB442924BE5499005A00E5 /* Preview Assets.xcassets */; };
 		BDBB442D24BE5499005A00E5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDBB442B24BE5499005A00E5 /* LaunchScreen.storyboard */; };
 		BDBB443524BE54FD005A00E5 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = BDBB443424BE54FD005A00E5 /* README.md */; };
+		BDBB443824BE59AD005A00E5 /* Parameters.json in Resources */ = {isa = PBXBuildFile; fileRef = BDBB443724BE59AD005A00E5 /* Parameters.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BDBB442C24BE5499005A00E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BDBB442E24BE5499005A00E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BDBB443424BE54FD005A00E5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		BDBB443724BE59AD005A00E5 /* Parameters.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Parameters.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				BDBB442024BE5498005A00E5 /* AppDelegate.swift */,
 				BDBB442224BE5498005A00E5 /* SceneDelegate.swift */,
 				BDBB442424BE5498005A00E5 /* ContentView.swift */,
+				BDBB443624BE5991005A00E5 /* Resources */,
 				BDBB442624BE5499005A00E5 /* Assets.xcassets */,
 				BDBB442B24BE5499005A00E5 /* LaunchScreen.storyboard */,
 				BDBB442E24BE5499005A00E5 /* Info.plist */,
@@ -76,6 +79,14 @@
 				BDBB442924BE5499005A00E5 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		BDBB443624BE5991005A00E5 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				BDBB443724BE59AD005A00E5 /* Parameters.json */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -139,6 +150,7 @@
 				BDBB442D24BE5499005A00E5 /* LaunchScreen.storyboard in Resources */,
 				BDBB442A24BE5499005A00E5 /* Preview Assets.xcassets in Resources */,
 				BDBB443524BE54FD005A00E5 /* README.md in Resources */,
+				BDBB443824BE59AD005A00E5 /* Parameters.json in Resources */,
 				BDBB442724BE5499005A00E5 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

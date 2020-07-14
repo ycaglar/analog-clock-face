@@ -1,0 +1,99 @@
+[
+    {
+        "id": 1001,
+        "category": "Time Markers",
+        "name": "Minutes",
+        "shape_": "Rectangle",
+        "dimensions": {
+            "width": 0.01,
+            "length": 0.03,
+            "offset": -0.46
+        },
+        "color_": "Black"
+    },
+    {
+        "id": 1002,
+        "category": "Time Markers",
+        "name": "Hours",
+        "shape_": "Rectangle",
+        "dimensions": {
+            "width": 0.03,
+            "length": 0.11,
+            "offset": -0.42
+        },
+        "color_": "Black"
+    },
+    {
+        "id": 1003,
+        "category": "Moving Hands",
+        "name": "Seconds Hand",
+        "shape_": "Rectangle",
+        "dimensions": {
+            "width": 0.01,
+            "length": 0.42,
+            "offset": -0.07
+        },
+        "color_": "Red"
+    },
+    {
+        "id": 1004,
+        "category": "Moving Hands",
+        "name": "Seconds Tip",
+        "shape_": "Circle",
+        "dimensions": {
+            "width": 0.08,
+            "length": 0.08,
+            "offset": -0.32
+        },
+        "color_": "Red"
+    },
+    {
+        "id": 1005,
+        "category": "Moving Hands",
+        "name": "Minutes",
+        "shape_": "Rectangle",
+        "dimensions": {
+            "width": 0.04,
+            "length": 0.56,
+            "offset": -0.184
+        },
+        "color_": "Black"
+    },
+    {
+        "id": 1006,
+        "category": "Moving Hands",
+        "name": "Hours",
+        "shape_": "Rectangle",
+        "dimensions": {
+            "width": 0.06,
+            "length": 0.43,
+            "offset": -0.12
+        },
+        "color_": "Black"
+    },
+    {
+        "id": 1007,
+        "category": "Shaft",
+        "name": "Thread",
+        "shape_": "Circle",
+        "dimensions": {
+            "width": 0.03,
+            "length": 0.03,
+            "offset": -0.00
+        },
+        "color_": "Red"
+    },
+    {
+        "id": 1008,
+        "category": "Shaft",
+        "name": "Nut",
+        "shape_": "Circle",
+        "dimensions": {
+            "width": 0.01,
+            "length": 0.01,
+            "offset": -0.00
+        },
+        "color_": "Yellow"
+    }
+]
+

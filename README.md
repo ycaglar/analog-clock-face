@@ -11,4 +11,3 @@ Contributions are always welcome. Please take the following steps for your commi
 2- Create a branch for the change are proposing
 3- Apply changes to your fork
 4- Send a pull request after refering to the **[contributing guidelines](https://github.com/caalar/.github/blob/master/CONTRIBUTING.md)**
-
