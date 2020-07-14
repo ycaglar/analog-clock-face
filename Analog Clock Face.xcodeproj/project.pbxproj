@@ -21,6 +21,7 @@
 		BDBB444124BE71E1005A00E5 /* Double+°.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBB444024BE71E1005A00E5 /* Double+°.swift */; };
 		BDBB444324BE755D005A00E5 /* Dial.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBB444224BE755D005A00E5 /* Dial.swift */; };
 		BDBB444524BE76B3005A00E5 /* MarkerRing.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBB444424BE76B3005A00E5 /* MarkerRing.swift */; };
+		BDBB444724BE7914005A00E5 /* Hand.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBB444624BE7914005A00E5 /* Hand.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		BDBB444024BE71E1005A00E5 /* Double+°.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Double+°.swift"; sourceTree = "<group>"; };
 		BDBB444224BE755D005A00E5 /* Dial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dial.swift; sourceTree = "<group>"; };
 		BDBB444424BE76B3005A00E5 /* MarkerRing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarkerRing.swift; sourceTree = "<group>"; };
+		BDBB444624BE7914005A00E5 /* Hand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hand.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,8 +86,9 @@
 				BDBB442824BE5499005A00E5 /* Preview Content */,
 				BDBB443924BE6B09005A00E5 /* Data.swift */,
 				BDBB443B24BE6B3F005A00E5 /* Part.swift */,
-				BDBB444224BE755D005A00E5 /* Dial.swift */,
 				BDBB444424BE76B3005A00E5 /* MarkerRing.swift */,
+				BDBB444224BE755D005A00E5 /* Dial.swift */,
+				BDBB444624BE7914005A00E5 /* Hand.swift */,
 			);
 			path = "Analog Clock Face";
 			sourceTree = "<group>";
@@ -194,6 +197,7 @@
 				BDBB443C24BE6B3F005A00E5 /* Part.swift in Sources */,
 				BDBB444524BE76B3005A00E5 /* MarkerRing.swift in Sources */,
 				BDBB443F24BE6C0B005A00E5 /* Color+Name.swift in Sources */,
+				BDBB444724BE7914005A00E5 /* Hand.swift in Sources */,
 				BDBB444124BE71E1005A00E5 /* Double+°.swift in Sources */,
 				BDBB443A24BE6B09005A00E5 /* Data.swift in Sources */,
 				BDBB444324BE755D005A00E5 /* Dial.swift in Sources */,
