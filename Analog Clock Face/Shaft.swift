@@ -8,8 +8,8 @@
 
 import SwiftUI
 
-/// In a physical clock, a shaft is the connection point of moving hands to the watch movement mechanism.
-/// In Analog Clock Face, shaft works as a referrence point to the center of the clock face.
+/// In a physical clock, a shaft is the connection point of moving hands to the movement mechanism.
+/// In Analog Clock Face on the other hand, shaft works as a referrence point to the center of the clock face.
 struct Shaft: View {
     private let shaftParams = shaft
     var body: some View {
