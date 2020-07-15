@@ -24,6 +24,7 @@
 		BDBB444724BE7914005A00E5 /* Hand.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBB444624BE7914005A00E5 /* Hand.swift */; };
 		BDBB444924BE7999005A00E5 /* Movement.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBB444824BE7999005A00E5 /* Movement.swift */; };
 		BDBB444B24BE7A0E005A00E5 /* Shaft.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBB444A24BE7A0E005A00E5 /* Shaft.swift */; };
+		BDBB444D24BE7C15005A00E5 /* Face.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBB444C24BE7C15005A00E5 /* Face.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,7 @@
 		BDBB444624BE7914005A00E5 /* Hand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hand.swift; sourceTree = "<group>"; };
 		BDBB444824BE7999005A00E5 /* Movement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movement.swift; sourceTree = "<group>"; };
 		BDBB444A24BE7A0E005A00E5 /* Shaft.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shaft.swift; sourceTree = "<group>"; };
+		BDBB444C24BE7C15005A00E5 /* Face.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Face.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 				BDBB444624BE7914005A00E5 /* Hand.swift */,
 				BDBB444824BE7999005A00E5 /* Movement.swift */,
 				BDBB444A24BE7A0E005A00E5 /* Shaft.swift */,
+				BDBB444C24BE7C15005A00E5 /* Face.swift */,
 			);
 			path = "Analog Clock Face";
 			sourceTree = "<group>";
@@ -202,6 +205,7 @@
 				BDBB442324BE5498005A00E5 /* SceneDelegate.swift in Sources */,
 				BDBB442524BE5498005A00E5 /* ContentView.swift in Sources */,
 				BDBB443C24BE6B3F005A00E5 /* Part.swift in Sources */,
+				BDBB444D24BE7C15005A00E5 /* Face.swift in Sources */,
 				BDBB444524BE76B3005A00E5 /* MarkerRing.swift in Sources */,
 				BDBB443F24BE6C0B005A00E5 /* Color+Name.swift in Sources */,
 				BDBB444724BE7914005A00E5 /* Hand.swift in Sources */,

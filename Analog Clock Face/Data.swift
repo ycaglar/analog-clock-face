@@ -8,7 +8,7 @@
 
 import Foundation
 
-let dimensionsData: Array<Part> = load("dimensionsData.json")
+let dimensionsData: Array<Part> = load("Parameters.json")
 let timeMarkers: Array<Part> = dimensionsData.filter{$0.category == .timeMarkers}
 let movingHands: Array<Part> = dimensionsData.filter{$0.category == .movingHands}
 let shaft: Array<Part> = dimensionsData.filter{$0.category == .shaft}
