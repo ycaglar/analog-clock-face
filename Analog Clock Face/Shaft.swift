@@ -14,8 +14,16 @@ struct Shaft: View {
     private let shaftParams = shaft
     var body: some View {
         GeometryReader { proxy in
-            ZStack {
-                self.body(in: min(proxy.size.width, proxy.size.height))
+            HStack {
+                Spacer()
+                VStack {
+                    Spacer()
+                    ZStack {
+                        self.body(in: min(proxy.size.width, proxy.size.height))
+                    }
+                    Spacer()
+                }
+                Spacer()
             }
         }
     }

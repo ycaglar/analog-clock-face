@@ -18,8 +18,18 @@ struct MarkerRing: View {
     
     var body: some View {
         GeometryReader { proxy in
-            ZStack {
-                self.body(in: min(proxy.size.width, proxy.size.height))
+            GeometryReader { geo in
+                HStack {
+                    Spacer()
+                    VStack {
+                        Spacer()
+                        ZStack {
+                            self.body(in: min(proxy.size.width, proxy.size.height))
+                        }
+                        Spacer()
+                    }
+                    Spacer()
+                }
             }
         }
     }
