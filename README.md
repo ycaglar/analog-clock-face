@@ -2,7 +2,9 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://forthebadge.com)
 
 ## Overview
-Analog Clock Face is an experimental project, a minimalistic representation of a clock face and it's moving mechanisms. 
+Analog Clock Face is an experimental project, a minimalistic representation of a clock face and it's moving mechanisms.
+
+![Screenshot](Analog Clock Face/Preview Content/Preview Assets.xcassets/Preview.jpeg)
 
 ## How to Contribute
 Contributions are always welcome. Please take the following steps for your commit.
