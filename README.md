@@ -4,7 +4,7 @@
 ## Overview
 Analog Clock Face is an experimental project, a minimalistic representation of a clock face and it's moving mechanisms.
 
-![Screenshot](Analog Clock Face/Preview Content/Preview Assets.xcassets/Preview.imageset/Preview.jpeg)
+![Screenshot](Analog Clock%20Face/Preview%20Content/Preview%20Assets.xcassets/Preview.imageset/Preview.jpg)
 
 ## How to Contribute
 Contributions are always welcome. Please take the following steps for your commit.
