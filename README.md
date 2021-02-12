@@ -1,3 +1,5 @@
+<img src="https://github.com/ycaglar/.github/blob/master/badge.png" align="right" width="10%"/>
+
 #  Analog Clock Face
 [![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://forthebadge.com)
 
